@@ -105,7 +105,11 @@ Areas of focus include:
 
 🏥 Healthcare FHIR Reference Architecture
 
-https://github.com/nirajsingh-k/healthcare-fhir-reference-architecture
+Reference architecture demonstrating secure healthcare interoperability using
+FHIR APIs, API management, OAuth 2.0/OIDC, event-driven integration,
+enterprise data platforms, security controls, and observability.
+
+[View Architecture Project](https://github.com/nirajsingh-k/healthcare-fhir-reference-architecture)
 
 
 🤖 Healthcare AI & Data Platform
