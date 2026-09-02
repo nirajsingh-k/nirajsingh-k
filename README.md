@@ -105,21 +105,8 @@ Areas of focus include:
 
 🏥 Healthcare FHIR Reference Architecture
 
-Reference architecture demonstrating secure healthcare interoperability using FHIR APIs, API management, identity, event streaming, and enterprise data platforms.
+https://github.com/nirajsingh-k/healthcare-fhir-reference-architecture
 
-Coming soon
-
-☁️ Cloud Healthcare Platform Architecture
-
-Cloud-native reference architecture for a highly available healthcare application platform using Kubernetes, APIs, event-driven services, security controls, and observability.
-
-Coming soon
-
-⚡ Event-Driven Healthcare Architecture
-
-Reference implementation demonstrating scalable event-driven processing using Kafka, microservices, APIs, rules engines, and enterprise messaging.
-
-Coming soon
 
 🤖 Healthcare AI & Data Platform
 
