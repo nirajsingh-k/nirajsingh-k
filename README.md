@@ -171,7 +171,7 @@ Currently focused on:
 
 LinkedIn: https://www.linkedin.com/in/nirajk-singh
 
-Portfolio: Coming soon
+Portfolio: https://nirajsingh-k.github.io/
 
 GitHub: github.com/nirajsingh-k
 
